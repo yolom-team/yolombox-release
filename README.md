@@ -45,7 +45,40 @@
 
 产品效果截图
 
-* 
+* 软件主界面
+
+![main_page](capture/main_page.png)
+
+![movies_list](capture/movies_list.png)
+
+* 所有演员
+
+![actors_list](capture/actors_list.png)
+
+* 媒体库管理
+
+![repo_list](capture/repo_list.png)
+
+* 影片详情
+
+![main_page](capture/movie_detail.png)
+
+* 影片搜索
+
+![search_result](capture/search_result.png)
+
+* 个人资料维护
+
+![user_setting](capture/user_setting.png)
+
+* O2O脚本（可以查验相关影片正在浏览器的影片本地是否已有）
+
+![local_server](capture/local_server.png)
+
+![local_script_javbus](capture/local_script_javbus.png)
+
+![local_script_javdb](capture/local_script_javdb.png)
+
 
 
 
