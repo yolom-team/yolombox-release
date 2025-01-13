@@ -80,7 +80,8 @@
 
 ![user_setting](capture/user_setting.png)
 
-* O2O脚本（可以查验相关影片正在浏览器的影片本地是否已有,目前支持javbus和javdb）
+* O2O脚本（可以查验相关影片正在浏览器的影片本地是否已有,目前支持javbus和javdb）(需要安装油猴脚本管理工具)
+
 
 ![local_server](capture/local_server.png)
 
